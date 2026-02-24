@@ -1,6 +1,16 @@
 <!-- ✨ Magical Girl Developer README ✨ -->
 
 <h1 align="center">🌸✨ Magical Girl Developer ✨🌸</h1>
+---
+
+# 🌸✨ Sparkle Snake ✨🌸
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/sparkle-snake.gif" alt="Sparkle Snake" />
+</p>
+
+---
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=Transforming+Caffeine+into+Code+✨;Debugging+with+Sparkles+💖;Leveling+Up+Every+Day+🌸" />
@@ -61,60 +71,3 @@
 
 
 
----
-
-# 🌸✨ Magical Coding Battle ✨🌸
-
-<p align="center">
-  💖 A wild Bug appeared! 💖
-</p>
-
-<p align="center">
-  🐞🐞🐞
-</p>
-
-<p align="center">
-  ✨ Magical Girl Developer transforms! ✨
-</p>
-
-<p align="center">
-  💗🌸✨ TRANSFORMATION COMPLETE ✨🌸💗
-</p>
-
----
-
-## 💎 Summoned Power Tools
-
-<p align="center">
-  
-  <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-  <img src="https://skillicons.dev/icons?i=html" height="60"/>
-  <img src="https://skillicons.dev/icons?i=css" height="60"/>
-
-</p>
-
----
-
-## ✨ Sparkle Attack Activated ✨
-
-<p align="center">
-  🌸✨🌸✨🌸✨🌸✨🌸✨🌸✨🌸✨🌸
-</p>
-
-<p align="center">
-  💖 VS Code used: Debug Beam 💖  
-  🐙 GitHub used: Commit Storm ✨  
-  🐍 Python used: Logic Blast 🌸  
-</p>
-
-<p align="center">
-  🐞 The Bug has been defeated! 🐞
-</p>
-
----
-
-<p align="center">
-  🌷✨ Victory Achieved — +50 Coding XP ✨🌷
-</p>
