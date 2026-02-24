@@ -4,7 +4,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://github.com/zeinab54/zeinab54/raw/main/maze_sparkle_snake_capsule.gif" alt="Sparkling Snake" width="500" />
+</p>
 
 
 
