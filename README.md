@@ -58,3 +58,63 @@
 <p align="center">
   🌸✨ Thanks for visiting my magical world ✨🌸
 </p>
+
+
+
+---
+
+# 🌸✨ Magical Coding Battle ✨🌸
+
+<p align="center">
+  💖 A wild Bug appeared! 💖
+</p>
+
+<p align="center">
+  🐞🐞🐞
+</p>
+
+<p align="center">
+  ✨ Magical Girl Developer transforms! ✨
+</p>
+
+<p align="center">
+  💗🌸✨ TRANSFORMATION COMPLETE ✨🌸💗
+</p>
+
+---
+
+## 💎 Summoned Power Tools
+
+<p align="center">
+  
+  <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+
+</p>
+
+---
+
+## ✨ Sparkle Attack Activated ✨
+
+<p align="center">
+  🌸✨🌸✨🌸✨🌸✨🌸✨🌸✨🌸✨🌸
+</p>
+
+<p align="center">
+  💖 VS Code used: Debug Beam 💖  
+  🐙 GitHub used: Commit Storm ✨  
+  🐍 Python used: Logic Blast 🌸  
+</p>
+
+<p align="center">
+  🐞 The Bug has been defeated! 🐞
+</p>
+
+---
+
+<p align="center">
+  🌷✨ Victory Achieved — +50 Coding XP ✨🌷
+</p>
