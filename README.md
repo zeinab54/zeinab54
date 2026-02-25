@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=Robotics+&&+TechnoKids+Trainer+🤖;Computer+Science+Graduate+💻;Leveling+Up+Every+Day+🧑‍💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=Robotics+%26+%26+TechnoKids+Trainer+🤖;Computer+Science+Graduate+💻;Leveling+Up+Every+Day+🧑‍💻" />
 </p>
 
 ---
@@ -26,23 +26,34 @@
 
 ---
 
-## 💕 Coding Languages                    ## Frontend Development     
+## 💕 Coding Languages                       
 
-| Language | Level |                       | Language | Level |
+| Language | Level |                      
 |-------|--------|
-| 💻 Java | ⭐⭐⭐⭐⭐|                 | 💻 CSS | ⭐⭐⭐⭐⭐|
-| 💻 JS | ⭐⭐⭐⭐☆|                    | 💻 HTML | ⭐⭐⭐⭐⭐|
+| 💻 Java | ⭐⭐⭐⭐⭐|                 
+| 💻 JS | ⭐⭐⭐⭐☆|                    
 | 💻 Python | ⭐⭐⭐⭐⭐|
 | 💻 PHP | ⭐⭐⭐☆☆|
-
-
-## Mobile App Development                 ## Database
-| Language | Level |                    | Language | Level |  
-|-------|--------|                      |-------|--------|
-| 💻 Dart| ⭐⭐⭐☆☆|                 | 💻 MySQL | ⭐⭐⭐⭐⭐|
+---
+ ## Frontend Development 
+ | Language | Level |
+ |-------|--------|
+ | 💻 CSS | ⭐⭐⭐⭐⭐|
+ | 💻 HTML | ⭐⭐⭐⭐⭐|
+ ---
+## Mobile App Development                
+| Language | Level |                     
+|-------|--------|                      
+| 💻 Dart| ⭐⭐⭐☆☆|                 
 | 💻 Flutter | ⭐⭐⭐☆☆|                                          
 
+---
+ ## Database
+| Language | Level | 
+|-------|--------|
+| 💻 MySQL | ⭐⭐⭐⭐⭐|
 
+---
 ## 💕 Magical Transformation Stats
                       
  | Power | Level |    
@@ -51,7 +62,7 @@
  | 🐞 Bug Slaying | ⭐⭐⭐⭐⭐ |
  | 🎀 UI Sparkles | ⭐⭐⭐⭐☆ |
 
-
+---
 
 ## 🎀 Current Quest
 
